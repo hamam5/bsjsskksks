@@ -51,7 +51,7 @@ client.on('message',msg => {
 });
 
 //Discord login
-client.login(auth.token);
+client.login(ODc3NTIwMDQ3ODczMDkzNjMy.YRz0Og.7MKwULKgSPTlBieXQXComA1UhTk);
 
 //=============================================================================Console Logs===============================================================
 
